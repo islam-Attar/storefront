@@ -14,3 +14,4 @@ Create application simulates a virtual store to display products
 
 # UML
 ![](./public/UML.jpg)
+
