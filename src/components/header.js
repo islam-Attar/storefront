@@ -13,7 +13,7 @@ import './header.scss';
 
 const Header = (props) => {
     const{cart}= props;
-    console.log(cart,'cart');
+    console.log(props.cart,'prooooooooops');
     return (
         <AppBar position="sticky">
             <Container maxWidth="xl">
